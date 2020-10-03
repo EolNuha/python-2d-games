@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba3bc391-fbaf-4681-8cfe-b1d629556693" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="printScope" value="1" />
+    <option name="OPEN_IN_BROWSER" value="true" />
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../CodeSpaceInvaders" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="SpaceInvader" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZXstN7uMYfggAdMYgDynocYECp" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Mario-Level-1-master" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SpaceInvader" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba3bc391-fbaf-4681-8cfe-b1d629556693" name="Default Changelist" comment="" />
+      <created>1584996986712</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584996986712</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="294" y="159" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586482574476">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="294" y="159" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1586482574476" />
+    <state x="583" y="307" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586353865243">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="583" y="307" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1010@0.0.1680.1010" timestamp="1586353865243" />
+    <state x="571" y="119" key="#main" timestamp="1586482636389">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="571" y="119" key="#main/0.0.1680.1010@0.0.1680.1010" timestamp="1586482636389" />
+    <state x="620" y="259" key="FileChooserDialogImpl" timestamp="1588696790597">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="620" y="259" key="FileChooserDialogImpl/0.0.1680.1010@0.0.1680.1010" timestamp="1588696790597" />
+    <state width="1659" height="2" key="GridCell.Tab.0.bottom" timestamp="1588247573510">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1003" height="2" key="GridCell.Tab.0.bottom/0.0.1024.728@0.0.1024.728" timestamp="1587654313389" />
+    <state width="1659" height="2" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1588247573510" />
+    <state width="1659" height="2" key="GridCell.Tab.0.center" timestamp="1588247573510">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1003" height="2" key="GridCell.Tab.0.center/0.0.1024.728@0.0.1024.728" timestamp="1587654313389" />
+    <state width="1659" height="2" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1588247573510" />
+    <state width="1659" height="2" key="GridCell.Tab.0.left" timestamp="1588247573509">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1003" height="2" key="GridCell.Tab.0.left/0.0.1024.728@0.0.1024.728" timestamp="1587654313389" />
+    <state width="1659" height="2" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1588247573509" />
+    <state width="1659" height="2" key="GridCell.Tab.0.right" timestamp="1588247573510">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1003" height="2" key="GridCell.Tab.0.right/0.0.1024.728@0.0.1024.728" timestamp="1587654313389" />
+    <state width="1659" height="2" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1588247573510" />
+    <state width="1659" height="2" key="GridCell.Tab.1.bottom" timestamp="1586367503122">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1659" height="2" key="GridCell.Tab.1.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1586367503122" />
+    <state width="1659" height="2" key="GridCell.Tab.1.center" timestamp="1586367503122">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1659" height="2" key="GridCell.Tab.1.center/0.0.1680.1010@0.0.1680.1010" timestamp="1586367503122" />
+    <state width="1659" height="2" key="GridCell.Tab.1.left" timestamp="1586367503122">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1659" height="2" key="GridCell.Tab.1.left/0.0.1680.1010@0.0.1680.1010" timestamp="1586367503122" />
+    <state width="1659" height="2" key="GridCell.Tab.1.right" timestamp="1586367503122">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1659" height="2" key="GridCell.Tab.1.right/0.0.1680.1010@0.0.1680.1010" timestamp="1586367503122" />
+    <state x="341" y="147" key="SettingsEditor" timestamp="1586484067926">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="341" y="147" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1586484067926" />
+    <state x="535" y="328" key="com.intellij.ide.util.TipDialog" timestamp="1588108988746">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="326" y="236" key="com.intellij.ide.util.TipDialog/0.0.1024.728@0.0.1024.728" timestamp="1587651201832" />
+    <state x="535" y="328" key="com.intellij.ide.util.TipDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1588108988746" />
+  </component>
+</project>
